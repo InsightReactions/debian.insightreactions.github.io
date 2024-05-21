@@ -1,0 +1,91 @@
+Package: tinyllama
+Version: 1.1.4
+Architecture: amd64
+Maintainer: InsightReactions <support@insightreactions.com>
+Depends: python3-venv, python3-pip, curl, git, tlweb-marketplace (>= 0.9.1)
+Suggests: tinyllama-mdns
+Filename: pool/stable/main/tinyllama_1.1.4_amd64.deb
+Size: 1209742
+MD5sum: d050785a53f7412b547bc718d5525a5a
+SHA1: 702ca957444550593abed8d47de247e09f765ac4
+SHA256: fdfd486e9531936830cec2c3f054ad066133bac61b65f20ee6e005f0f97af4e3
+Section: utils
+Priority: optional
+Description: Official Tiny Llama webserver by InsightReactions
+
+Package: tinyllama-mdns
+Version: 1.0.1
+Architecture: amd64
+Maintainer: InsightReactions <support@insightreactions.com>
+Depends: avahi-daemon
+Recommends: tinyllama
+Filename: pool/stable/main/tinyllama-mdns_1.0.1_amd64.deb
+Size: 1106
+MD5sum: 473c50f29d762a4b292ecaa2d583505e
+SHA1: b3ee7cb7b9609407848c6042b61d9d998d6fc5a2
+SHA256: eb5de131bb4bca620cdb1719364ce8bee082f8c4a32804e7b90c9dec887cde4b
+Section: utils
+Priority: optional
+Description: Official Avahi mDNS configuration for Tiny Llama by InsightReactions
+
+Package: tinyllama-ollama
+Version: 1.0.2-0.1.48
+Architecture: amd64
+Maintainer: InsightReactions <support@insightreactions.com>
+Depends: curl
+Filename: pool/stable/main/tinyllama-ollama_1.0.2-0.1.48_amd64.deb
+Size: 1018
+MD5sum: fcb6d09739a859fbedf10a08d39b5df7
+SHA1: 27311f0a4071a1c27a835bdcee759b1a804213e8
+SHA256: 276aa31ccb69aadaf07ef1e51b6ba507f6a45693eabf8f53fa83cfb87ae99fbf
+Section: utils
+Priority: optional
+Description: ollama configured for the Tiny Llama AI Home server platform by InsightReactions
+Reccomends: tinyllama
+
+Package: tlweb-marketplace
+Version: 0.9.3
+Architecture: amd64
+Maintainer: InsightReactions <support@insightreactions.com>
+Filename: pool/stable/main/tlweb-marketplace_0.9.3_amd64.deb
+Size: 12860
+MD5sum: 1b75bf6567bdce001b3521e96e7e2eae
+SHA1: 14c350856d16cf7ae9f8d49124c24a57b1e69291
+SHA256: 95b9a674f95b0a1cd7e694e350042f14bad75ac700381ab428d86f733bd2b5e1
+Section: utils
+Priority: optional
+Description: The Official Tiny Llama Marketplace by InsightReactions
+
+Package: tlweb-open-webui
+Version: 1.2.4-git-2c06177
+Architecture: amd64
+Maintainer: InsightReactions <support@insightreactions.com>
+Depends: docker-ce
+Recommends: tinyllama
+Filename: pool/stable/main/tlweb-open-webui_1.2.4-git-2c06177_amd64.deb
+Size: 1606
+MD5sum: 657f6cc828518e5b380c50e3599e0f72
+SHA1: 860b07d32732f4c4f325c1088fdd2e21b126a489
+SHA256: a11032ec5ef6dcd5a5174dba631a22bbd5936ce3de2016247a1d0f139b367ef2
+Section: utils
+Priority: optional
+Description: Open WebUI is an extensible, feature-rich, and user-friendly self-hosted web-based AI
+ chat interface designed to operate entirely offline. It supports various LLM runners, including Ollama and
+ OpenAI-compatible APIs.
+
+Package: tlweb-swarmui
+Version: 1.1.2-0.9.0-Beta
+Architecture: amd64
+Maintainer: InsightReactions <support@insightreactions.com>
+Depends: git, rsync, wget
+Recommends: tinyllama
+Filename: pool/stable/main/tlweb-swarmui_1.1.2-0.9.0-Beta_amd64.deb
+Size: 7962
+MD5sum: 6e01878394c4f3d6578664c21f2d405a
+SHA1: 678ac3f15c4e5d5f134ebc9f0b8f0cbd994e1b25
+SHA256: f5861a27748bb5c3863e7a41fac5613a1439dca3e4475a88fb3db1ac273e4525
+Section: utils
+Priority: optional
+Description: A Modular Stable Diffusion web-based image generation interface, with an emphasis on
+ making AI powertools easily accessible, performant, and extensible.
+
