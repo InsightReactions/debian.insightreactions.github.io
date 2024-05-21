@@ -1,0 +1,105 @@
+Package: tinyllama
+Version: 1.0.7
+Architecture: amd64
+Maintainer: InsightReactions <support@insightreactions.com>
+Depends: python3-venv, python3-pip, curl, git
+Recommends: tinyllama-default, tinyllama-plus
+Suggests: tinyllama-mdns
+Filename: pool/main/tinyllama_1.0.7_amd64.deb
+Size: 1228098
+MD5sum: f66ce731d351657fb13a0ff7d084f7cd
+SHA1: ced57ad6c8e75fef0863ec97367f4d816befa14e
+SHA256: c9f6e0425d86a03d81aeb6a40b69eca533c9a34ccdfd8b28cba82535be4e0feb
+Section: utils
+Priority: optional
+Description: Official Tiny Llama webserver by InsightReactions
+
+Package: tinyllama-default
+Version: 1.0.3
+Architecture: amd64
+Maintainer: InsightReactions <support@insightreactions.com>
+Depends: tinyllama-ollama, tlweb-open-webui, tlweb-swarmui
+Recommends: tinyllama-plus
+Filename: pool/main/tinyllama-default_1.0.3_amd64.deb
+Size: 1204
+MD5sum: 37d675797ff1c653396ebabe8bca4d47
+SHA1: 126a14acfd62ce73aeadce74467b9c1d0ea9b07c
+SHA256: 87112b8f795df64d3aacb58292ae8f6798501a2ce681ab55dd9db644551b6403
+Section: utils
+Priority: optional
+Description: Official default configuration for Tiny Llama by InsightReactions
+
+Package: tinyllama-mdns
+Version: 1.0
+Architecture: amd64
+Maintainer: InsightReactions <support@insightreactions.com>
+Depends: avahi-daemon
+Recommends: tinyllama, tinyllama-plus
+Filename: pool/main/tinyllama-mdns_1.0_amd64.deb
+Size: 1112
+MD5sum: 414a7fca4e45163187721782d91b98c9
+SHA1: a59d74db9025048745a0c1f9152c06a26bd19b51
+SHA256: f0850955ed9b65e5c8855b652cb3aa328e7e313668104448f2dcd9b68b388168
+Section: utils
+Priority: optional
+Description: Official Avahi mDNS configuration for Tiny Llama by InsightReactions
+
+Package: tinyllama-ollama
+Version: 0.1.38
+Architecture: amd64
+Maintainer: InsightReactions <support@insightreactions.com>
+Depends: curl
+Filename: pool/main/tinyllama-ollama_0.1.38_amd64.deb
+Size: 978
+MD5sum: b39aea3201b649aa09e3979be4a42cba
+SHA1: e64edf40ebef8950888a6c966071eb7d10e8b8a5
+SHA256: c95736ea0d3b267ad7c53bff77155e0b37a5cc31a7e35149fbe3c4dc431ecc4a
+Section: utils
+Priority: optional
+Description: ollama configured for the Tiny Llama AI Home server platform by InsightReactions
+Reccomends: tinyllama, tinyllama-plus
+
+Package: tinyllama-plus
+Version: 0.1
+Architecture: amd64
+Maintainer: InsightReactions <support@insightreactions.com>
+Depends: tinyllama-default
+Filename: pool/main/tinyllama-plus_0.1_amd64.deb
+Size: 668
+MD5sum: 9a8394fa1952a6b9d9dbe9d3df4e321e
+SHA1: d78a758ab9568c2d5878d23dbdaa16e7d2fb8a8e
+SHA256: 0d4c451f5e178da1650ba98923f1a027e0fc95cd0072fb8b926cda5efe963125
+Section: utils
+Priority: optional
+Description: Official Tiny Llama Plus package by InsightReactions
+
+Package: tlweb-open-webui
+Version: 1.0-git-d43ee0f
+Architecture: amd64
+Maintainer: InsightReactions <support@insightreactions.com>
+Depends: docker-ce
+Recommends: tinyllama, tinyllama-plus
+Filename: pool/main/tlweb-open-webui_1.0-git-d43ee0f_amd64.deb
+Size: 1130
+MD5sum: c962ca03ef42ab2d909ab6379f37fd7f
+SHA1: 3f54b5a0298e1cd1b0937552f582be62958e3525
+SHA256: 754ffffff458af146bea59017913a3eec5552da4038a31fe5309da94b6d283b8
+Section: utils
+Priority: optional
+Description: Open WebUI configured for the Tiny Llama AI Home server platform by InsightReactions
+
+Package: tlweb-swarmui
+Version: 0.9.0-Beta
+Architecture: amd64
+Maintainer: InsightReactions <support@insightreactions.com>
+Depends: git, rsync
+Recommends: tinyllama, tinyllama-plus
+Filename: pool/main/tlweb-swarmui_0.9.0-Beta_amd64.deb
+Size: 6888
+MD5sum: b653eb0b9d0791bc5efc992470a5f0d0
+SHA1: 014e7a050e0b95a6d9e74358ea4fe63eaf4e0e88
+SHA256: 6bfe2c463b2c81e3cab0a4954f7afc8ed92a42d741d14f488059c728c23b699a
+Section: utils
+Priority: optional
+Description: SwarmUI configured for the Tiny Llama AI Home server platform by InsightReactions
+
