@@ -74,16 +74,16 @@ Description: Open WebUI is an extensible, feature-rich, and user-friendly self-h
  OpenAI-compatible APIs.
 
 Package: tlweb-swarmui
-Version: 1.1.2-0.9.0-Beta
+Version: 1.2.0-0.9.0-Beta
 Architecture: amd64
 Maintainer: InsightReactions <support@insightreactions.com>
 Depends: git, rsync, wget
 Recommends: tinyllama
-Filename: pool/stable/main/tlweb-swarmui_1.1.2-0.9.0-Beta_amd64.deb
-Size: 7962
-MD5sum: 6e01878394c4f3d6578664c21f2d405a
-SHA1: 678ac3f15c4e5d5f134ebc9f0b8f0cbd994e1b25
-SHA256: f5861a27748bb5c3863e7a41fac5613a1439dca3e4475a88fb3db1ac273e4525
+Filename: pool/testing/main/tlweb-swarmui_1.2.0-0.9.0-Beta_amd64.deb
+Size: 8180
+MD5sum: 2b60d72380373c254dade01573955aab
+SHA1: 564b5842e1c9e13ba549625a2336dab31d6a58dd
+SHA256: 1e4329aacaac22384b2cf8d2daef56daf417586242610d45a03f3418646f75e8
 Section: utils
 Priority: optional
 Description: A Modular Stable Diffusion web-based image generation interface, with an emphasis on
