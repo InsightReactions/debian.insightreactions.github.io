@@ -62,11 +62,11 @@ Architecture: amd64
 Maintainer: InsightReactions <support@insightreactions.com>
 Depends: docker-ce
 Recommends: tinyllama
-Filename: pool/testing/main/tlweb-open-webui_1.2.5-git-c74e7df_amd64.deb
-Size: 2178
-MD5sum: a31bebef628ce2d5426cd0ca7fc2ae0b
-SHA1: 9d98293056608f833259647a7080800e36feca2d
-SHA256: 9fc922c79986a7f44e44496acda3d8cfc1490e2cb804802c6bc1c95fa2302058
+Filename: pool/stable/main/tlweb-open-webui_1.2.5-git-c74e7df_amd64.deb
+Size: 2176
+MD5sum: 54de489a1cb1407915c0344c5e560f81
+SHA1: a6a4f97350ba0855a389cd96efa32ecadc139615
+SHA256: 2536f76cfc8166a8a6ab360e46ab0f13468c1fc418345a41ed431b33db7db91d
 Section: utils
 Priority: optional
 Description: Open WebUI is an extensible, feature-rich, and user-friendly self-hosted web-based AI
