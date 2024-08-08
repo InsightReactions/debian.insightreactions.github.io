@@ -57,16 +57,16 @@ Priority: optional
 Description: The Official Tiny Llama Marketplace by InsightReactions
 
 Package: tlweb-open-webui
-Version: 1.2.5-git-c74e7df
+Version: 1.2.6-0.3.12
 Architecture: amd64
 Maintainer: InsightReactions <support@insightreactions.com>
 Depends: docker-ce
 Recommends: tinyllama
-Filename: pool/stable/main/tlweb-open-webui_1.2.5-git-c74e7df_amd64.deb
-Size: 2176
-MD5sum: 54de489a1cb1407915c0344c5e560f81
-SHA1: a6a4f97350ba0855a389cd96efa32ecadc139615
-SHA256: 2536f76cfc8166a8a6ab360e46ab0f13468c1fc418345a41ed431b33db7db91d
+Filename: pool/testing/main/tlweb-open-webui_1.2.6-0.3.12_amd64.deb
+Size: 2670
+MD5sum: d6820d8bee25cfde9906057abbd51125
+SHA1: 842ef1007d7663115fe3af877b23919a9f8e746c
+SHA256: db658e0245cfd222f4eb5120f08a7247c611fbef537bb862f32c26d7ddcb291f
 Section: utils
 Priority: optional
 Description: Open WebUI is an extensible, feature-rich, and user-friendly self-hosted web-based AI
@@ -74,16 +74,16 @@ Description: Open WebUI is an extensible, feature-rich, and user-friendly self-h
  OpenAI-compatible APIs.
 
 Package: tlweb-swarmui
-Version: 1.2.0-0.9.0-Beta
+Version: 1.2.1-0.9.1-Beta
 Architecture: amd64
 Maintainer: InsightReactions <support@insightreactions.com>
 Depends: git, rsync, wget
 Recommends: tinyllama
-Filename: pool/testing/main/tlweb-swarmui_1.2.0-0.9.0-Beta_amd64.deb
-Size: 8180
-MD5sum: 2b60d72380373c254dade01573955aab
-SHA1: 564b5842e1c9e13ba549625a2336dab31d6a58dd
-SHA256: 1e4329aacaac22384b2cf8d2daef56daf417586242610d45a03f3418646f75e8
+Filename: pool/testing/main/tlweb-swarmui_1.2.1-0.9.1-Beta_amd64.deb
+Size: 8384
+MD5sum: d93fca88e48e0af4a1f2dacefef87093
+SHA1: a94637fc17496bd971988d34b62024da51d15e9c
+SHA256: 57b82219daf9d6a221779e9dca5b9bc306076f4dee62f1e8125e6fa23c63f0ab
 Section: utils
 Priority: optional
 Description: A Modular Stable Diffusion web-based image generation interface, with an emphasis on
