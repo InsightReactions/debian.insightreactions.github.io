@@ -29,15 +29,15 @@ Priority: optional
 Description: Official Avahi mDNS configuration for Tiny Llama by InsightReactions
 
 Package: tinyllama-ollama
-Version: 1.0.5-0.3.4
+Version: 1.0.6-0.3.4
 Architecture: amd64
 Maintainer: InsightReactions <support@insightreactions.com>
 Depends: curl
-Filename: pool/stable/main/tinyllama-ollama_1.0.5-0.3.4_amd64.deb
-Size: 1098
-MD5sum: b403b5a07882dfaca6c96b870d50c42b
-SHA1: e8f5bb7a74c66028009bbdec90ba5385c95dc34f
-SHA256: 4545f0db7682d4241285b22d93302bbe29fae4c50b61c9f9d194d2a62fcac43b
+Filename: pool/stable/main/tinyllama-ollama_1.0.6-0.3.4_amd64.deb
+Size: 1136
+MD5sum: 3a928de50f0f21f9d4855b3450553ccf
+SHA1: 0d62fc359acb7e542e473802582b0d08efb0ac32
+SHA256: 7edf074ec9e78bb3b54621e663cec51dea3ba499ea9c8f0496f0b9000357862c
 Section: utils
 Priority: optional
 Description: ollama configured for the Tiny Llama AI Home server platform by InsightReactions
