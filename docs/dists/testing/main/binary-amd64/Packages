@@ -33,11 +33,11 @@ Version: 1.0.4-0.3.4
 Architecture: amd64
 Maintainer: InsightReactions <support@insightreactions.com>
 Depends: curl
-Filename: pool/testing/main/tinyllama-ollama_1.0.4-0.3.4_amd64.deb
+Filename: pool/stable/main/tinyllama-ollama_1.0.4-0.3.4_amd64.deb
 Size: 1106
-MD5sum: 11ae3968521f4a3921772f33d03b65ab
-SHA1: 984889c27e0b2d6e8a12da52ec05ea2d971e22e5
-SHA256: 46cefb87ad23f305908a685806aedf0b76c9fea27f94cd0982ee9f2ba0cd0cd9
+MD5sum: 7fb7c8bf8067469bdb76e550a97c8f28
+SHA1: 8f34e0459f5e718edacfb0cdc225d64988b386f6
+SHA256: c3d07dc43155dc6987f4229e931207a85ab1ff207bd3ec8f614af7342ce0cc2b
 Section: utils
 Priority: optional
 Description: ollama configured for the Tiny Llama AI Home server platform by InsightReactions
@@ -62,11 +62,11 @@ Architecture: amd64
 Maintainer: InsightReactions <support@insightreactions.com>
 Depends: docker-ce, tinyllama-ollama ( >= 1.0.3-0.3.4 )
 Recommends: tinyllama
-Filename: pool/testing/main/tlweb-open-webui_1.2.7-0.3.12_amd64.deb
-Size: 2688
-MD5sum: ee5fca12ba27398705fa9b9c9d741396
-SHA1: d1ce5fa9080e31723334deecc14baae80dc7bb2d
-SHA256: a79d25b327a5a99999e87ef475f75d0804238d753e0d0a9b482d32191b7aa474
+Filename: pool/stable/main/tlweb-open-webui_1.2.7-0.3.12_amd64.deb
+Size: 2226
+MD5sum: 54d3a631cd41297473ee982a6d71ff77
+SHA1: e1ebef66afcb3c2a77167528d40be5968ec2b57c
+SHA256: 85140a0ba93e625d162c2c98a730552e8275439c571b35f04260b163ca50a164
 Section: utils
 Priority: optional
 Description: Open WebUI is an extensible, feature-rich, and user-friendly self-hosted web-based AI
@@ -79,11 +79,11 @@ Architecture: amd64
 Maintainer: InsightReactions <support@insightreactions.com>
 Depends: git, rsync, wget
 Recommends: tinyllama
-Filename: pool/testing/main/tlweb-swarmui_1.2.1-0.9.1-Beta_amd64.deb
-Size: 8384
-MD5sum: d93fca88e48e0af4a1f2dacefef87093
-SHA1: a94637fc17496bd971988d34b62024da51d15e9c
-SHA256: 57b82219daf9d6a221779e9dca5b9bc306076f4dee62f1e8125e6fa23c63f0ab
+Filename: pool/stable/main/tlweb-swarmui_1.2.1-0.9.1-Beta_amd64.deb
+Size: 8380
+MD5sum: 0cb0c6b6591dd4b8053f0e759f6a4e9a
+SHA1: 2999d0111cf3e62fa0ab8f016c2e34c9a36b187b
+SHA256: 3b33d80a9aa848de4f5d22e4efbc0c2074f14b628e4da87364ee123de4766513
 Section: utils
 Priority: optional
 Description: A Modular Stable Diffusion web-based image generation interface, with an emphasis on
