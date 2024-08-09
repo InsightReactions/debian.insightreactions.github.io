@@ -4,11 +4,11 @@ Architecture: amd64
 Maintainer: InsightReactions <support@insightreactions.com>
 Depends: python3-venv, python3-pip, curl, git, tlweb-marketplace (>= 0.9.1)
 Suggests: tinyllama-mdns
-Filename: pool/testing/main/tinyllama_1.1.7_amd64.deb
-Size: 1210704
-MD5sum: 9682e43e4ddbb4f74b0cc5bf40e0d721
-SHA1: 5daaaeb2c44be3bd3d00c91737e0eb9f660623cf
-SHA256: 49025894f5924eb01523f5762b0d83f09df8d4c9e0554bd607927984efa42c48
+Filename: pool/stable/main/tinyllama_1.1.7_amd64.deb
+Size: 1210684
+MD5sum: 37e5458fa0ad54894d61a549931ae861
+SHA1: 6e7f7958659444111e4713a2af77761ef5776eb1
+SHA256: eebe2db720f3e38c8da4c51dc3af5a3876f02ae275af412853bd9ea293129da3
 Section: utils
 Priority: optional
 Description: Official Tiny Llama webserver by InsightReactions
@@ -33,11 +33,11 @@ Version: 1.0.5-0.3.4
 Architecture: amd64
 Maintainer: InsightReactions <support@insightreactions.com>
 Depends: curl
-Filename: pool/testing/main/tinyllama-ollama_1.0.5-0.3.4_amd64.deb
+Filename: pool/stable/main/tinyllama-ollama_1.0.5-0.3.4_amd64.deb
 Size: 1098
-MD5sum: 26145affc0119015b49a4ce1d95c8e53
-SHA1: 52591826b1a7513694a74f885df73a095f082c8e
-SHA256: 934b6fe2b94d0bbb5ee3e3c2840308c5e80cf3f73f4ad48d90fffa3271808e1b
+MD5sum: b403b5a07882dfaca6c96b870d50c42b
+SHA1: e8f5bb7a74c66028009bbdec90ba5385c95dc34f
+SHA256: 4545f0db7682d4241285b22d93302bbe29fae4c50b61c9f9d194d2a62fcac43b
 Section: utils
 Priority: optional
 Description: ollama configured for the Tiny Llama AI Home server platform by InsightReactions
