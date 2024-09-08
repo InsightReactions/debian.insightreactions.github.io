@@ -1,14 +1,14 @@
 Package: tinyllama
-Version: 1.2.2
+Version: 1.2.3
 Architecture: amd64
 Maintainer: InsightReactions <support@insightreactions.com>
 Depends: python3-venv, python3-pip, curl, git, tlweb-marketplace (>= 0.9.1)
 Suggests: tinyllama-mdns
-Filename: pool/stable/main/tinyllama_1.2.2_amd64.deb
-Size: 1300640
-MD5sum: 672506e155352ed02c87ca60a3e6c60b
-SHA1: adacf2bf19a7911e959984bb893a4df3749291d0
-SHA256: 52fcd2a4186daca1bb7d15c763f2fad4002d7e0bf3a40fecf79b4a9b19ad28fa
+Filename: pool/stable/main/tinyllama_1.2.3_amd64.deb
+Size: 1295288
+MD5sum: 2a1a28d0e8566817e8935c1fb6b4aaea
+SHA1: c307271ceabe57eeb8ab4322c896cf38c85518be
+SHA256: 4a0c24135537af02dbf90fbfb0edbd5368cce5d3b83c546f0f29970e222d1042
 Section: utils
 Priority: optional
 Description: Official Tiny Llama webserver by InsightReactions
