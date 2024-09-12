@@ -67,10 +67,10 @@ Maintainer: InsightReactions <support@insightreactions.com>
 Depends: git, nodejs, npm
 Recommends: tinyllama
 Filename: pool/testing/main/tlweb-amica_1.0.0-0.2.1_amd64.deb
-Size: 1450
-MD5sum: 92c80494f7483e4cdbe8cdd7de42dc1f
-SHA1: 50b7e9a92eae3b5b383a3b2f3f88fedd2b74c7d2
-SHA256: 4e7f7ac9fb36f8f367c8bbfb63a4772c7df9d7823fff745aa091d37c2d7f275f
+Size: 1456
+MD5sum: f49702ef6a027b249054dbacbac7b6ad
+SHA1: b0a2aecdd21ae07f55169646a90720205f2e6c0c
+SHA256: 5ef26d5b88964f21d7e9e07ff97d398bad9199719ca8ebebdc7e299a95773445
 Section: utils
 Priority: optional
 Description: Amica is an open source interface for interactive communication with 3D characters with voice synthesis and speech recognition.
@@ -80,10 +80,10 @@ Version: 1.0.3
 Architecture: amd64
 Maintainer: InsightReactions <support@insightreactions.com>
 Filename: pool/testing/main/tlweb-marketplace_1.0.3_amd64.deb
-Size: 27658
-MD5sum: dfa5fe6aac93dd896b878aa2d6ebf141
-SHA1: 376cf9e0d5403f0fe6914cf95bda59c6c085285a
-SHA256: 2441a1cb6963fad7cb9fc5361e8a8602d945d79becee8f5c8f0bf8eb464f5f84
+Size: 27642
+MD5sum: dfdb641f9b6e64b3106aafbc3d61fb46
+SHA1: 20ce26ef551ebb7647efbb9726c95d5f0da2f974
+SHA256: b92ce3b67297904051141c10b57110491da5ed049b0b00b2ae64dcf120d89a1a
 Section: utils
 Priority: optional
 Description: The Official Tiny Llama Marketplace by InsightReactions
