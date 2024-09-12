@@ -67,10 +67,10 @@ Maintainer: InsightReactions <support@insightreactions.com>
 Depends: sudo, git, nodejs, npm
 Recommends: tinyllama
 Filename: pool/testing/main/tlweb-amica_1.0.0-0.2.1_amd64.deb
-Size: 1482
-MD5sum: b83ccea68ad742f02beccce5d3aa5a48
-SHA1: 90f56be585e14155993f83ebc1b43f9a029197a9
-SHA256: 40640c63b1a5be3b5999d3a74a1fafd76eb0a8d0e869a26c9bad0bedaff4d892
+Size: 1752
+MD5sum: 4843bf9d48698b8ac408960a8ef8534c
+SHA1: 7c9208e2910b64889862d70a06eb4f12293b9103
+SHA256: ba8518cf7aa1cf88e688ac074c89e9f20cbd3228f765d56170bb5587525fc54a
 Section: utils
 Priority: optional
 Description: Amica is an open source interface for interactive communication with 3D characters with voice synthesis and speech recognition.
