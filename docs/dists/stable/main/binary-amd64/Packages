@@ -60,15 +60,30 @@ Description: Open WebUI is an extensible, feature-rich, and user-friendly self-h
  chat interface designed to operate entirely offline. It supports various LLM runners, including Ollama and
  OpenAI-compatible APIs.
 
-Package: tlweb-marketplace
-Version: 1.0.2
+Package: tlweb-amica
+Version: 1.0.0-0.2.1
 Architecture: amd64
 Maintainer: InsightReactions <support@insightreactions.com>
-Filename: pool/stable/main/tlweb-marketplace_1.0.2_amd64.deb
-Size: 18924
-MD5sum: f3ae95e538a88cd855cc097502780ef7
-SHA1: 945b1f96e6df28dbdb02dfe9c46502b283956bfd
-SHA256: 338bc23150e75b78d7146e9d201e7c79d225d4b2c9c314c0a5cc3de6fa078248
+Depends: sudo, git, nodejs, npm
+Recommends: tinyllama
+Filename: pool/stable/main/tlweb-amica_1.0.0-0.2.1_amd64.deb
+Size: 1752
+MD5sum: acb436d32a253d387161bdb1c0f0e74b
+SHA1: 26ad495933bc703e61cbb35d2105667daed693ef
+SHA256: c1dfcbdb50fac20a9bd04283e787efacabf273967d84599ea865ec4bb485ef5a
+Section: utils
+Priority: optional
+Description: Amica is an open source interface for interactive communication with 3D characters with voice synthesis and speech recognition.
+
+Package: tlweb-marketplace
+Version: 1.0.3
+Architecture: amd64
+Maintainer: InsightReactions <support@insightreactions.com>
+Filename: pool/stable/main/tlweb-marketplace_1.0.3_amd64.deb
+Size: 27646
+MD5sum: 152e6f13ffc653f6926787ea953363b1
+SHA1: 41b6f2dc6f4be0bacaadf44b0f7672f0572db4f8
+SHA256: 1aaaa738828536cbe67e6def947e1ea18d134deeb8cafb21f6686f6adf85c608
 Section: utils
 Priority: optional
 Description: The Official Tiny Llama Marketplace by InsightReactions
