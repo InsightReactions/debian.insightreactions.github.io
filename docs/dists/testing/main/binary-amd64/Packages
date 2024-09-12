@@ -5,10 +5,10 @@ Maintainer: InsightReactions <support@insightreactions.com>
 Depends: python3-venv, python3-pip, curl, git, tlweb-marketplace (>= 0.9.1)
 Suggests: tinyllama-mdns
 Filename: pool/testing/main/tinyllama_1.2.3_amd64.deb
-Size: 1295296
-MD5sum: d1d9839d2965593f7c9b5c1454594ea1
-SHA1: a1b8afde8e4e868d22657a1daaf5f23026e67ed2
-SHA256: b436163970b209946c8422ea761ce978e8f03642b24c8fd221fdd5f13f1e52a7
+Size: 1300536
+MD5sum: da82d61aa8007af16fb249a222f7af8c
+SHA1: 370f6e471ba87ad2b788938238df4cebc49205b3
+SHA256: 1c9a37e049906756f3eacdfe642c3f0d51811adf0135e56152d9aabf4f878ff2
 Section: utils
 Priority: optional
 Description: Official Tiny Llama webserver by InsightReactions
@@ -61,16 +61,16 @@ Description: Open WebUI is an extensible, feature-rich, and user-friendly self-h
  OpenAI-compatible APIs.
 
 Package: tlweb-amica
-Version: 1.0.1-0.2.1
+Version: 1.0.0-0.2.1
 Architecture: amd64
 Maintainer: InsightReactions <support@insightreactions.com>
 Depends: sudo, git, nodejs, npm
 Recommends: tinyllama
-Filename: pool/testing/main/tlweb-amica_1.0.1-0.2.1_amd64.deb
-Size: 1460
-MD5sum: 24539b5ff068f4a39a5e1ee88e318a20
-SHA1: 41d00682fef062ca5b2573c7fe475e5f907bf36b
-SHA256: bde13fefb0c65ab2445ced6a7f7cca85bdd4a956b23d5710b5274ba53e643226
+Filename: pool/testing/main/tlweb-amica_1.0.0-0.2.1_amd64.deb
+Size: 1486
+MD5sum: 9acc2842511be625895796046e9e6147
+SHA1: 088a335474103af5c33b625dde0ff30900a95cb8
+SHA256: c1066099e3f1415a059e6046a8561d49fdc468fc6e1701ab2f38bb7f7c5dd348
 Section: utils
 Priority: optional
 Description: Amica is an open source interface for interactive communication with 3D characters with voice synthesis and speech recognition.
