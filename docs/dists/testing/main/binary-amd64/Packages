@@ -95,10 +95,10 @@ Maintainer: InsightReactions <support@insightreactions.com>
 Depends: docker-ce, tinyllama-ollama ( >= 1.0.8-0.3.10 ), tinyllama-openedai-speech
 Recommends: tinyllama
 Filename: pool/testing/main/tlweb-open-webui_1.3.3-0.3.16_amd64.deb
-Size: 2464
-MD5sum: 1761ff6671e1da5c6b1afb37878ed8e1
-SHA1: 8e47175dc73671c863b031cbd0e962a77594cb93
-SHA256: d13b7038931f96b188619041cd7f6dc377bba9e416738501602070a9b57a5153
+Size: 1760
+MD5sum: 415c250a63e263112cd86ed55f3b76d8
+SHA1: 6035f8c79e8971597dc0ff5ee343746a4376d06d
+SHA256: 479cbd9cd32162c3b5973a9b50ee01f46472f2f40c372cebcc43c1db574b2600
 Section: utils
 Priority: optional
 Description: Open WebUI is an extensible, feature-rich, and user-friendly self-hosted web-based AI
