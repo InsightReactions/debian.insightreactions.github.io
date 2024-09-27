@@ -96,10 +96,10 @@ Version: 1.0.4
 Architecture: amd64
 Maintainer: InsightReactions <support@insightreactions.com>
 Filename: pool/stable/main/tlweb-marketplace_1.0.4_amd64.deb
-Size: 32510
-MD5sum: da015a9bd50c514e1fe5f285757f442e
-SHA1: 10134e666262ad9fd8105190609b8757f6b415d1
-SHA256: 47543ed4b915b9e551e734dbb4605499c151eb01203c510b249ccc65ac7af42b
+Size: 32514
+MD5sum: 6ccf4e864726491f466313ae6f4a8d64
+SHA1: a0f532179bfafebea662c88faa7074d6c47ff881
+SHA256: 3341070eba0801acf7a644964230ac8d84eab6de70ee24139e2580967fa602fe
 Section: utils
 Priority: optional
 Description: The Official Tiny Llama Marketplace by InsightReactions
