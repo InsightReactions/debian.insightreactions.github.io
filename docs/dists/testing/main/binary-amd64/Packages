@@ -92,14 +92,14 @@ Homepage: https://github.com/langflow-ai/langflow
 Description: Langflow is a low-code app builder for RAG and multi-agent AI applications.
 
 Package: tlweb-marketplace
-Version: 1.0.3
+Version: 1.0.4
 Architecture: amd64
 Maintainer: InsightReactions <support@insightreactions.com>
-Filename: pool/testing/main/tlweb-marketplace_1.0.3_amd64.deb
-Size: 32376
-MD5sum: f012a15ae85c0c7ebdd686034f359ee7
-SHA1: e5e2a8c66be732b91218bf83bf60c40279b95f20
-SHA256: 05abdac41d490d96d10db690ea6e9a2759ec82dad0b3e0e91596e382593ca553
+Filename: pool/testing/main/tlweb-marketplace_1.0.4_amd64.deb
+Size: 32380
+MD5sum: 48e1651196ff306675d0870bec2a08bd
+SHA1: 20e2e22feaec614dd4f680ab1dffd544bcb0d24f
+SHA256: 2b1c846fc4bc0b1ea23e83d4a93947f10fc8d4f65d02bd9af4b0349af64a07f0
 Section: utils
 Priority: optional
 Description: The Official Tiny Llama Marketplace by InsightReactions
