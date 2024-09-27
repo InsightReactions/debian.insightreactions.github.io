@@ -75,15 +75,31 @@ Section: utils
 Priority: optional
 Description: Amica is an open source interface for interactive communication with 3D characters with voice synthesis and speech recognition.
 
+Package: tlweb-langflow
+Version: 1.0.0-1.0.18
+Architecture: amd64
+Maintainer: InsightReactions <support@insightreactions.com>
+Depends: docker-ce, tinyllama-ollama
+Recommends: tinyllama
+Filename: pool/testing/main/tlweb-langflow_1.0.0-1.0.18_amd64.deb
+Size: 2336
+MD5sum: 612ab94942763963986ecc6ea85648d0
+SHA1: 0d9e5092a58a0c6d73ace102bcfbf8babe15f1a8
+SHA256: 23ea7b0c07b9d3071cfc5f21ab2880ab6c580790a5df70f28092f9cc76dc1a26
+Section: utils
+Priority: optional
+Homepage: https://github.com/langflow-ai/langflow
+Description: Langflow is a low-code app builder for RAG and multi-agent AI applications.
+
 Package: tlweb-marketplace
 Version: 1.0.3
 Architecture: amd64
 Maintainer: InsightReactions <support@insightreactions.com>
 Filename: pool/testing/main/tlweb-marketplace_1.0.3_amd64.deb
-Size: 27642
-MD5sum: dfdb641f9b6e64b3106aafbc3d61fb46
-SHA1: 20ce26ef551ebb7647efbb9726c95d5f0da2f974
-SHA256: b92ce3b67297904051141c10b57110491da5ed049b0b00b2ae64dcf120d89a1a
+Size: 32376
+MD5sum: f012a15ae85c0c7ebdd686034f359ee7
+SHA1: e5e2a8c66be732b91218bf83bf60c40279b95f20
+SHA256: 05abdac41d490d96d10db690ea6e9a2759ec82dad0b3e0e91596e382593ca553
 Section: utils
 Priority: optional
 Description: The Official Tiny Llama Marketplace by InsightReactions
