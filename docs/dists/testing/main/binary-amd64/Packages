@@ -29,15 +29,15 @@ Priority: optional
 Description: Official Avahi mDNS configuration for Tiny Llama by InsightReactions
 
 Package: tinyllama-ollama
-Version: 1.0.8-0.3.11
+Version: 1.0.8-0.3.12
 Architecture: amd64
 Maintainer: InsightReactions <support@insightreactions.com>
 Depends: curl
-Filename: pool/testing/main/tinyllama-ollama_1.0.8-0.3.11_amd64.deb
-Size: 1700
-MD5sum: 64157adde388bac5688922458de4ca5f
-SHA1: 18142bc410763cd9d7536a8e828a561cbd2ee6ad
-SHA256: 5c2ea7d1c63f115fee3378e7e1a8dbb91d91066a41b3de444c3329d46bddf868
+Filename: pool/testing/main/tinyllama-ollama_1.0.8-0.3.12_amd64.deb
+Size: 1528
+MD5sum: 6f00e5ba20df3fdd6e9bb54434f38c8b
+SHA1: 8f05263e28f7827864c5d8fb968c2ddc015cf4a7
+SHA256: ce39fb4ebe426f6bbdad1fe310ebe0bf1f2820e679b22e2a68194810c5435da0
 Section: utils
 Priority: optional
 Homepage: https://github.com/ollama/ollama
@@ -105,16 +105,16 @@ Priority: optional
 Description: The Official Tiny Llama Marketplace by InsightReactions
 
 Package: tlweb-open-webui
-Version: 1.3.3-0.3.28
+Version: 1.3.3-0.3.30
 Architecture: amd64
 Maintainer: InsightReactions <support@insightreactions.com>
 Depends: docker-ce, tinyllama-ollama ( >= 1.0.8-0.3.10 ), tinyllama-openedai-speech
 Recommends: tinyllama
-Filename: pool/testing/main/tlweb-open-webui_1.3.3-0.3.28_amd64.deb
-Size: 3102
-MD5sum: 85325f22387f49ff00d58ed30f98a496
-SHA1: 260f363ba535b3fa1d26442b5f85c238830276d7
-SHA256: 789e0bc119039c1a433e4c9347e0d16bf1de2e9ec1ac9079e9c6860d54e33bed
+Filename: pool/testing/main/tlweb-open-webui_1.3.3-0.3.30_amd64.deb
+Size: 2270
+MD5sum: 842645bd3cc6a7b90d7d61df25d1872e
+SHA1: 7f8a4c753158024b239a68e6e9a0f01d07bdb5d2
+SHA256: 1cdcff1c72169d88d2293b35ee5248cb342631edbbacb8f3606cdc224516bddc
 Section: utils
 Priority: optional
 Homepage: https://github.com/open-webui/open-webui
