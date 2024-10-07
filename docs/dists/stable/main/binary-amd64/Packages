@@ -105,16 +105,16 @@ Priority: optional
 Description: The Official Tiny Llama Marketplace by InsightReactions
 
 Package: tlweb-open-webui
-Version: 1.3.3-0.3.30
+Version: 1.3.3-0.3.32
 Architecture: amd64
 Maintainer: InsightReactions <support@insightreactions.com>
 Depends: docker-ce, tinyllama-ollama ( >= 1.0.8-0.3.10 ), tinyllama-openedai-speech
 Recommends: tinyllama
-Filename: pool/stable/main/tlweb-open-webui_1.3.3-0.3.30_amd64.deb
-Size: 2272
-MD5sum: 17306c197a676bd23df6ddaafffd775d
-SHA1: ecee85cbdf53b90a016909478ad0aee6ad433bb5
-SHA256: 68e4eb68869f0d89eca0c5b55d88e48bf95abdff9ba07e85e3fab066c02119d9
+Filename: pool/stable/main/tlweb-open-webui_1.3.3-0.3.32_amd64.deb
+Size: 2556
+MD5sum: 66cf87df8983ed10421b9016b58c17c3
+SHA1: 797233b1d897a15793a4bdca1f45a7dbdd0ada9b
+SHA256: 9ca4403dae335a2513a9264682c686fd26e6dca055a0ee548cd7a833c301d202
 Section: utils
 Priority: optional
 Homepage: https://github.com/open-webui/open-webui

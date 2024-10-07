@@ -112,9 +112,9 @@ Depends: docker-ce, tinyllama-ollama ( >= 1.0.8-0.3.10 ), tinyllama-openedai-spe
 Recommends: tinyllama
 Filename: pool/testing/main/tlweb-open-webui_1.3.3-0.3.32_amd64.deb
 Size: 2560
-MD5sum: 7731e0215d06875136523d981b7416f6
-SHA1: bc53251bdef1084df65fe6a2e57a1201a9d11f5a
-SHA256: fb7dc13fe9ed4ccaac827613473b8034988343db7e3205f0fa3f1c020ed0fc55
+MD5sum: 6b488527973aa677c76bd983b555de0b
+SHA1: b36fa7892f00d68039cb8c48fa28cc6cac3a4152
+SHA256: 809fde69f51f92ee75bba7249f923371e72f9aae475469fa3c8a0fc3d1e7a64d
 Section: utils
 Priority: optional
 Homepage: https://github.com/open-webui/open-webui
