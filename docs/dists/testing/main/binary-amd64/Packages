@@ -5,10 +5,10 @@ Maintainer: InsightReactions <support@insightreactions.com>
 Depends: python3-venv, python3-pip, curl, git, tlweb-marketplace (>= 0.9.1)
 Suggests: tinyllama-mdns
 Filename: pool/testing/main/tinyllama_1.3.0_amd64.deb
-Size: 1213392
-MD5sum: 7b9a755d51414fdb26372b6314d06b6f
-SHA1: b8bf2fd9ffbba07a2fcacc1fe51563f43c517e73
-SHA256: 07878cbdca39e203fe72743c4a98faa3da4a9fb97010ec1b0194c08437829bc3
+Size: 1213374
+MD5sum: f6ac2d0f959034f0ae58d90a63202552
+SHA1: af378952852c0f58e4cd8c20c8932a3194580a68
+SHA256: 608e14d6de0931bc518de1b955090f717b766b7bb4b8b4472b7e624709cba143
 Section: utils
 Priority: optional
 Description: Official Tiny Llama webserver by InsightReactions
