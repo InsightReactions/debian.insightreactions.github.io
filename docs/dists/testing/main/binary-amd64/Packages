@@ -78,22 +78,20 @@ Priority: optional
 Description: Amica is an open source interface for interactive communication with 3D characters with voice synthesis and speech recognition.
 
 Package: tlweb-langflow
-Version: 1.0.0-1.0.19
+Version: 1.0.0-1.0.18
 Architecture: amd64
 Maintainer: InsightReactions <support@insightreactions.com>
 Depends: docker-ce, tinyllama-ollama
 Recommends: tinyllama
-Filename: pool/testing/main/tlweb-langflow_1.0.0-1.0.19_amd64.deb
-Size: 3124
-MD5sum: ce34115dc6eb9c80a2c610190b52fd47
-SHA1: d7f33296901efba1fa6c3385cc8f7fd80dd1ec8b
-SHA256: 15d2ed04ea0d14f9e447223e3cc27f7e6bb4048e90006688f18798285070838d
+Filename: pool/testing/main/tlweb-langflow_1.0.0-1.0.18_amd64.deb
+Size: 2330
+MD5sum: f70e71ffe7c9852bd5a1bfa3c6abf0c2
+SHA1: 322efc625021b5f9d1dd5fdfabf7fe1ca8460386
+SHA256: df50187e5bebf16ed9e0166fdfc5e0ed927300c8ff25f8af3d5a89bfdd459f4d
 Section: utils
 Priority: optional
 Homepage: https://github.com/langflow-ai/langflow
 Description: Langflow is a low-code app builder for RAG and multi-agent AI applications.
-Commit: 06013ae86a882e5ab3fe547c272adf5a3620c8a5
-Name: Langflow
 
 Package: tlweb-marketplace
 Version: 1.0.4
