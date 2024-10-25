@@ -107,22 +107,24 @@ Priority: optional
 Description: The Official Tiny Llama Marketplace by InsightReactions
 
 Package: tlweb-open-webui
-Version: 1.3.3-0.3.32
+Version: 1.3.3-0.3.33
 Architecture: amd64
 Maintainer: InsightReactions <support@insightreactions.com>
 Depends: docker-ce, tinyllama-ollama ( >= 1.0.8-0.3.10 ), tinyllama-openedai-speech
 Recommends: tinyllama
-Filename: pool/stable/main/tlweb-open-webui_1.3.3-0.3.32_amd64.deb
-Size: 2556
-MD5sum: 66cf87df8983ed10421b9016b58c17c3
-SHA1: 797233b1d897a15793a4bdca1f45a7dbdd0ada9b
-SHA256: 9ca4403dae335a2513a9264682c686fd26e6dca055a0ee548cd7a833c301d202
+Filename: pool/stable/main/tlweb-open-webui_1.3.3-0.3.33_amd64.deb
+Size: 3060
+MD5sum: 1059bc33fe7d28837e7fc54425f80103
+SHA1: ad89d50ed063db6be2f870cb54c4b1f2be5731d5
+SHA256: 5cab267640f6d8d335d2a43d9f53cedc343156d607d9086bc238579206bb81c2
 Section: utils
 Priority: optional
 Homepage: https://github.com/open-webui/open-webui
 Description: Open WebUI is an extensible, feature-rich, and user-friendly self-hosted web-based AI
  chat interface designed to operate entirely offline. It supports various LLM runners, including Ollama and
  OpenAI-compatible APIs.
+Commit: 99dd7fb5a836511e02e2a3761aeab75f2e8b5687
+Name: Open WebUI
 
 Package: tlweb-stable-diffusion-webui
 Version: 1.0.2-1.10.0
