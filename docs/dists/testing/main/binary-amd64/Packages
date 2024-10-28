@@ -113,10 +113,10 @@ Maintainer: InsightReactions <support@insightreactions.com>
 Depends: docker-ce, tinyllama-ollama ( >= 1.0.8-0.3.10 ), tinyllama-openedai-speech
 Recommends: tinyllama
 Filename: pool/testing/main/tlweb-open-webui_1.3.3-0.3.35_amd64.deb
-Size: 2836
-MD5sum: 1e5885d681eca6b522efa10cf7090745
-SHA1: d8840697c112bfed04981a515aea97b909ac5403
-SHA256: 5b53d1b4295d1fcaa2988b20230bc82aac4952755f3a8a4b12b53bf1f0dc4a8f
+Size: 2800
+MD5sum: 8fb02d963366a8943dfb4fa9fdad77f4
+SHA1: 9560885e5a7d9f7a687ad776cd496146049b53b8
+SHA256: 76f6fe059a042e8febec1d4d5ad2597cea82ee6b0731256b1d6f8d6a00e2557a
 Section: utils
 Priority: optional
 Homepage: https://github.com/open-webui/open-webui
