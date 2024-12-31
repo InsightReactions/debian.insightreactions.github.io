@@ -29,21 +29,21 @@ Priority: optional
 Description: Official Avahi mDNS configuration for Tiny Llama by InsightReactions
 
 Package: tinyllama-ollama
-Version: 1.0.8-0.5.1
+Version: 1.0.8-0.5.4
 Architecture: amd64
 Maintainer: InsightReactions <support@insightreactions.com>
 Depends: curl
 Recommends: tinyllama
-Filename: pool/stable/main/tinyllama-ollama_1.0.8-0.5.1_amd64.deb
-Size: 1954
-MD5sum: b1d5687e726523a7fbd5f6276fcfedaf
-SHA1: 97f9bc5776ac7efb06a7f798bef2c7e6b3f09bfe
-SHA256: 6080f10acaa12388aaa5d9d8253f7870d03e6012cdcc9abeb60b83b4da67c944
+Filename: pool/stable/main/tinyllama-ollama_1.0.8-0.5.4_amd64.deb
+Size: 1974
+MD5sum: 0afac41bfd9c0a1a1a3fb26987e61337
+SHA1: c2adef7a46bff7a881408da36da3ed08e38af54d
+SHA256: 9c60e62dfe30aa4d8c03c916a1cacbcc11a4de590c2a05c4f1249aeffb16ec08
 Section: utils
 Priority: optional
 Homepage: https://github.com/ollama/ollama
 Description: ollama configured for the Tiny Llama AI Home server platform by InsightReactions
-Commit: de52b6c2f90ff220ed9469167d51e3f5d7474fa2
+Commit: 2ddc32d5c5386b28062a46ac6cfea5160cd9f600
 Name: Ollama
 
 Package: tinyllama-openedai-speech
@@ -107,23 +107,23 @@ Priority: optional
 Description: The Official Tiny Llama Marketplace by InsightReactions
 
 Package: tlweb-open-webui
-Version: 1.3.3-0.4.8
+Version: 1.3.3-0.5.2
 Architecture: amd64
 Maintainer: InsightReactions <support@insightreactions.com>
 Depends: docker-ce, tinyllama-ollama ( >= 1.0.8-0.3.10 ), tinyllama-openedai-speech
 Recommends: tinyllama
-Filename: pool/stable/main/tlweb-open-webui_1.3.3-0.4.8_amd64.deb
-Size: 2368
-MD5sum: 74bc2c02ea3ea90e99e16efcfdf3289c
-SHA1: 92b67766e9f174f839d2757f612f879d7087c184
-SHA256: cf74b96a3c349a37ab21841ba45bc71db3e2d5a40f908debd77d1516a9dc8db6
+Filename: pool/stable/main/tlweb-open-webui_1.3.3-0.5.2_amd64.deb
+Size: 2632
+MD5sum: aa04d97cd1704e2134f45703f8fa18c9
+SHA1: 9508ee32ad08bc3b216c1e394b23597352592db4
+SHA256: f199bc4bd19402d2b91c415698a2352c41825e3ddf373c7634cd2dca6d82d2c3
 Section: utils
 Priority: optional
 Homepage: https://github.com/open-webui/open-webui
 Description: Open WebUI is an extensible, feature-rich, and user-friendly self-hosted web-based AI
  chat interface designed to operate entirely offline. It supports various LLM runners, including Ollama and
  OpenAI-compatible APIs.
-Commit: 29a271959556743e6deb4d55a5a982983335d7ab
+Commit: e42cbf07f5a0c1fea2441e37f36f06510a2a781d
 Name: Open WebUI
 
 Package: tlweb-stable-diffusion-webui
