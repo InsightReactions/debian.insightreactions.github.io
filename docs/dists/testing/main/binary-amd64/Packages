@@ -107,23 +107,23 @@ Priority: optional
 Description: The Official Tiny Llama Marketplace by InsightReactions
 
 Package: tlweb-open-webui
-Version: 1.3.3-0.5.4
+Version: 1.3.3-0.5.7
 Architecture: amd64
 Maintainer: InsightReactions <support@insightreactions.com>
 Depends: docker-ce, tinyllama-ollama ( >= 1.0.8-0.3.10 ), tinyllama-openedai-speech
 Recommends: tinyllama
-Filename: pool/testing/main/tlweb-open-webui_1.3.3-0.5.4_amd64.deb
-Size: 3020
-MD5sum: b41d91a5196e0a2fd4452d81015edfee
-SHA1: 871fa7883e809c014e9bcb07189914f4033f834e
-SHA256: 5ce64dcd5ddb695b75ed127f66c0cafbc5715f51cf23f82cba6c83325d3785b0
+Filename: pool/testing/main/tlweb-open-webui_1.3.3-0.5.7_amd64.deb
+Size: 2592
+MD5sum: 80474f46dd91574b17fe1ec4d1d0ecde
+SHA1: 041ce39b51d15a4888ab9d842e82fe8cfddf75b1
+SHA256: ed454bcc45afcfc3ad4413c7c47d7ed675ee8a77011850f4e6fa9a6cae9701c7
 Section: utils
 Priority: optional
 Homepage: https://github.com/open-webui/open-webui
 Description: Open WebUI is an extensible, feature-rich, and user-friendly self-hosted web-based AI
  chat interface designed to operate entirely offline. It supports various LLM runners, including Ollama and
  OpenAI-compatible APIs.
-Commit: 506dc0149ca973e20768fa3d6f171afac289f606
+Commit: b72150c881955721a63ae7f4ea1b9ea293816fc1
 Name: Open WebUI
 
 Package: tlweb-stable-diffusion-webui
@@ -142,21 +142,21 @@ Priority: optional
 Description: Stable Diffusion WebUI is a browser interface for Stable Diffusion based on Gradio library, created by Automatic1111
 
 Package: tlweb-swarmui
-Version: 1.2.2-0.9.4.0-Beta
+Version: 1.2.2-0.9.5-Beta
 Architecture: amd64
 Maintainer: InsightReactions <support@insightreactions.com>
 Depends: git, rsync, wget
 Recommends: tinyllama
-Filename: pool/testing/main/tlweb-swarmui_1.2.2-0.9.4.0-Beta_amd64.deb
-Size: 8800
-MD5sum: 0e92c71264995bd30ce37680c6f6eac6
-SHA1: 18e18a6e4866e39fbafa9417e01b9d9a8faf29b4
-SHA256: 2bd01f853fe132f939897f0afe560461c88bca4bc5004f139f663621a39a2174
+Filename: pool/testing/main/tlweb-swarmui_1.2.2-0.9.5-Beta_amd64.deb
+Size: 8746
+MD5sum: 73d36eb3ba6ebc5245d1214ca37119cc
+SHA1: 9e39225b9761bbb40d1068e2b0c4ba5690f37b85
+SHA256: c77abc4a135a4795e48563221e2c5090e89d89487a6927336f837e60fd614c17
 Section: utils
 Priority: optional
 Homepage: https://github.com/mcmonkeyprojects/SwarmUI
 Description: A Modular Stable Diffusion web-based image generation interface, with an emphasis on
  making AI powertools easily accessible, performant, and extensible.
-Commit: e1ffa2cca93575d35de34ce25a95e63f478a6401
+Commit: 5d5da6ad83d2faeb9f912b7bc717611641326063
 Name: SwarmUI
 
