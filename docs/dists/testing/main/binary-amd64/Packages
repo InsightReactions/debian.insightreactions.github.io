@@ -151,10 +151,10 @@ Maintainer: InsightReactions <support@insightreactions.com>
 Depends: git, rsync, wget
 Recommends: tinyllama
 Filename: pool/testing/main/tlweb-swarmui_1.2.2-0.9.6-Beta_amd64.deb
-Size: 8900
-MD5sum: e2fd6018e26e901281a5a5a67857ac9c
-SHA1: 4ad34fc3d7a04b994702f4d39b338b01fe711187
-SHA256: a360f08c62886d6e0221a7b8b97f9b79ed5b230be29d0714829fe1dcb670621c
+Size: 8996
+MD5sum: 94e361e73b9f814798bfd970f0e6faa7
+SHA1: a0fc44b3c05a9825fe0f50beecdd525abeced62d
+SHA256: 9447eeb8612b6a577fd33285cc52ee5c75c3b3ff6a1f3c69f84b80290840a404
 Section: utils
 Priority: optional
 Homepage: https://github.com/mcmonkeyprojects/SwarmUI
